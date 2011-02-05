@@ -1,0 +1,11 @@
+{
+  "name":        "rightjs",
+  "version":     "2.2.1",
+  "description": "RightJS server-side version",
+  "author":      "Nikolay Nemshilov",
+  "repository":  {
+    "type": "git",
+    "url":  "http://github.com/RightJS/rightjs-npm.git"
+  },
+  "main": "lib/right",
+}
