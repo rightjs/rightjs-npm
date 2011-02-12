@@ -1,6 +1,6 @@
 {
   "name":        "rightjs",
-  "version":     "2.2.1",
+  "version":     "2.2.2",
   "description": "RightJS server-side version",
   "author":      "Nikolay Nemshilov",
   "repository":  {
